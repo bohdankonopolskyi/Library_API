@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hometask.WebAPI", "Hometask.WebAPI\Hometask.WebAPI.csproj", "{ED1E2D77-6616-4D98-9652-2180B5E85F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hometask.DAL", "Hometask.DAL\Hometask.DAL.csproj", "{725387D7-5D63-4E83-9BCD-23189EEE255B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hometask.BLL", "Hometask.BLL\Hometask.BLL.csproj", "{4E43A01E-95D9-493D-B1FA-B83824057D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1E2D77-6616-4D98-9652-2180B5E85F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1E2D77-6616-4D98-9652-2180B5E85F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1E2D77-6616-4D98-9652-2180B5E85F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1E2D77-6616-4D98-9652-2180B5E85F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725387D7-5D63-4E83-9BCD-23189EEE255B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725387D7-5D63-4E83-9BCD-23189EEE255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725387D7-5D63-4E83-9BCD-23189EEE255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725387D7-5D63-4E83-9BCD-23189EEE255B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E43A01E-95D9-493D-B1FA-B83824057D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E43A01E-95D9-493D-B1FA-B83824057D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E43A01E-95D9-493D-B1FA-B83824057D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E43A01E-95D9-493D-B1FA-B83824057D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
