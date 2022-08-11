@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EkU1/fr9uGVFmGNjEsUaaiBn18wfUHrO5oZeyFprarQ238Woxp2FbzcRAUp8AvpLc7JjSJMzZqYk8rL3jraGkw==",
+  "dgSpecHash": "2UY2T3vKIKm+jbgm9xMiHrcM59K5n5KLiqn3fTXpiH2o3Y6Ont7ShjtVq+XIKqKJRZLMbcixcfS7+IEounPUYQ==",
   "success": true,
   "projectFilePath": "/Users/bohdankonopolskyi/RiderProjects/HomeTask_2-3/Hometask.BLL/Hometask.BLL.csproj",
   "expectedPackageFiles": [
+    "/Users/bohdankonopolskyi/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/Users/bohdankonopolskyi/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/bohdankonopolskyi/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/bohdankonopolskyi/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.6.22329.4/microsoft.entityframeworkcore.7.0.0-preview.6.22329.4.nupkg.sha512",
     "/Users/bohdankonopolskyi/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.6.22329.4/microsoft.entityframeworkcore.abstractions.7.0.0-preview.6.22329.4.nupkg.sha512",
     "/Users/bohdankonopolskyi/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.6.22329.4/microsoft.entityframeworkcore.analyzers.7.0.0-preview.6.22329.4.nupkg.sha512",

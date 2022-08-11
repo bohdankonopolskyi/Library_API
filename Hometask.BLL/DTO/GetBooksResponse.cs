@@ -1,6 +1,6 @@
 namespace Hometask.BLL.DTO;
 
-public class BookDto : BaseDto
+public class GetBooksResponse : BaseDto
 {
     public string Title { get; set; }
     public string Author { get; set; }
